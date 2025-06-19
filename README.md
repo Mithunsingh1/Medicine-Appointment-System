@@ -31,6 +31,9 @@ API Documentation: Swagger (Springfox)
 Testing: JUnit, Mockito
 
 📂 Project Structure
+
+
+
 src/main/java/com/medicineappointmentsystem
 ├── controller
 │   ├── AppointmentController.java
@@ -51,6 +54,9 @@ src/main/java/com/medicineappointmentsystem
 ├── config
 │   └── SecurityConfig.java
 └── MedicineAppointmentSystemApplication.java
+
+
+
 Frontend templates:
 
 src/main/resources/templates
@@ -61,6 +67,10 @@ src/main/resources/templates
 ├── appointment_form.html
 ├── medication_list.html
 ├── medication_form.html
+
+
+
+
 🚀 Getting Started
 Prerequisites
 Java 17+
